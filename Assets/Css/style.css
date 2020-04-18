@@ -1,3 +1,4 @@
+/* changed asset folder temp comment */
 :root
 {
     /* zdefine color scheme */
@@ -10,12 +11,12 @@
     --color-text-highlight :#777777;
 }
 body 
-[
+{
     background-image    :url("assets/images/chevron.png");
     background-repeat   :repeat;
     font-family         :"Ariel","Helvetica Neue","Helvetica", sans-serif;
     font-size           : 18px;
-]
+}
 .container {
     width   :960px;
     margin  :auto;
@@ -114,7 +115,7 @@ the left and right panes have a width of 650px and 270px, respectively. */
     margin-top  :25px;
     margin-right:25px;
 }
-}
+
 .box{ 
     width: 30%; 
     height: 200px; 
